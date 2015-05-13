@@ -32,6 +32,21 @@ li {
 	margin: 10px auto;
 }
 
+.toc-lesson {
+	
+}
+.toc-questions {
+	
+}
+
+.questiontopic {
+	background-color: #515151;
+	border-radius: 20px; /* round the corners of rectangles */
+	color: white;
+	padding: 10px;
+	margin: 10px auto;
+}
+
 h2 {
 	margin: 10px;
 }
@@ -52,6 +67,33 @@ h2 {
 }
 
 .concept-description {
+	font-weight: lighter;
+	margin: 6px;
+}
+.questions {
+	background-color: #515151;
+	border-radius: 20px; /* round the corners of rectangles */
+	color: white;
+	padding: 10px;
+	margin: 10px auto;
+}
+
+.question {
+	background-color: #f4f4f4;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
+
+.actual-question {
+	font-size: 28px;
+	margin: 8px;
+	text-align: center;
+	color: #294860;
+}
+
+.question-answer {
 	font-weight: lighter;
 	margin: 6px;
 }
